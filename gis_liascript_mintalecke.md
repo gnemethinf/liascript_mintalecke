@@ -44,6 +44,7 @@ Jelenleg Magyarországon a telekkönyvi adatok (tulajdonos, helyrajzi szám, fö
  - A térképek helyessége csak nehézkesen ellenőrizhető (pl. van-e két azonos helyrajzi szám, egy földrészlet térképen számított területe megfelel-e az adatbázisban szereplő területértéknek, stb.)
  - Bizonyos kimutatások igen nehézkesen végezhetők el. (Például kíváncsiak vagyunk azon földtulajdonosok adataira, akiknek a földjét érinti egy tervezett autópálya útvonala.)
 
+![1. ábra: 1:2000 méretarányú földmérési alaptérkép (kataszteri térkép) részlete.](https://github.com/gnemethinf/liascript_mintalecke/blob/main/gis_1abra.jpg)
 
 > A fenti hátrányok az ingatlan nyilvántartás térinformatikai kezelésével küszöbölhetők ki. Ez alapvetően egy digitális térképet és egy hozzá kapcsolt háttéradatbázist jelent, amelyeket a GIS szoftver együtt, integráltan tud kezelni. Mindennek a részleteivel a további fejezetekben fogunk megismerkedni.
 
