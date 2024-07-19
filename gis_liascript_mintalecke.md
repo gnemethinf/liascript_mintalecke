@@ -46,6 +46,8 @@ Jelenleg Magyarországon a telekkönyvi adatok (tulajdonos, helyrajzi szám, fö
 
 ![1. ábra: 1:2000 méretarányú földmérési alaptérkép (kataszteri térkép) részlete.](https://github.com/gnemethinf/liascript_mintalecke/blob/main/gis_1abra.jpg)
 
+![1. ábra: 1:2000 méretarányú földmérési alaptérkép (kataszteri térkép) részlete.](gis_1abra.jpg)
+
 > A fenti hátrányok az ingatlan nyilvántartás térinformatikai kezelésével küszöbölhetők ki. Ez alapvetően egy digitális térképet és egy hozzá kapcsolt háttéradatbázist jelent, amelyeket a GIS szoftver együtt, integráltan tud kezelni. Mindennek a részleteivel a további fejezetekben fogunk megismerkedni.
 
 ## 2. példa: Önkormányzati információs rendszer, óvodai körzetek. 
